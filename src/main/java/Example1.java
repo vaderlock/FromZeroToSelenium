@@ -16,6 +16,6 @@ public class Example1 {
         else
             System.out.println("Failed");
 
-        driver.quit();
+        //driver.quit();
     }
 }
